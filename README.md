@@ -8,7 +8,7 @@
 - <b>Computer Vision Projects</b>
   - [Digit Recognizer](https://github.com/ssalabi/Digit-Recognizer) 
   - [Animals Image Classification](https://github.com/ssalabi/CV-AnimalDataset)
-  - [Action Clip Video Classification](https://github.com/ssalabi/Video-Classification) <i><b>(Use of transfer learning)</b></i>
+  - [Experiments on Action Clip Video Classification](https://github.com/ssalabi/Video-Classification) 
   - [Facial Keypoints Detection](https://github.com/ssalabi/facial-keypoint-detection-project) 
 
 <h2>📃 Publication:</h2>
