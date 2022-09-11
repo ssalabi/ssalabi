@@ -4,7 +4,7 @@
 
 - <b>Data Exploration and Visualization Notebooks</b>
   - [EDA Heart Attack Dataset](https://github.com/ssalabi/EDA-Heart-Attack-Dataset)
-  - [EDA IRM Dataset] (https://github.com/ssalabi/EDA-Medical-IRM-Dataset)
+  - [EDA IRM Dataset](https://github.com/ssalabi/EDA-Medical-IRM-Dataset)
 - <b>Computer Vision Projects</b>
   - [Digit Recognizer](https://github.com/ssalabi/Digit-Recognizer) 
   - [Animals Image Classification](https://github.com/ssalabi/CV-AnimalDataset)
