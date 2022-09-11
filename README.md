@@ -15,7 +15,7 @@
 
   - [SleepPPG-Net: A deep learning algorithm for robust sleep staging from
 continuous photoplethysmography](https://arxiv.org/abs/2202.05735) <i><b>(Co-Author)</b></i>
-<h2>📰 Research Articles Used:</h2>
+
 
 
 
