@@ -10,6 +10,7 @@
   - [CV projects on Wildlife Dataset](https://github.com/ssalabi/CV-AnimalDataset)
   - [Experiments on Action Clip Video Classification](https://github.com/ssalabi/Video-Classification) 
   - [Facial Keypoints Detection](https://github.com/ssalabi/facial-keypoint-detection-project) 
+  - [Image Captioning](https://github.com/ssalabi/image-captioning) 
 - <b>Deep Learning Projects</b>
   - [Detecting-arrythmia-using-ECG-RR-intervals-and-BRNN](https://github.com/ssalabi/Detecting-arrythmia-using-ECG-RR-intervals-and-Deep-learning-method) 
 
