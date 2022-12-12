@@ -14,7 +14,7 @@
 - <b>Deep Learning Projects</b>
   - [Detecting-arrythmia-using-ECG-RR-intervals-and-BRNN](https://github.com/ssalabi/Detecting-arrythmia-using-ECG-RR-intervals-and-Deep-learning-method) 
 - <b>Machine Learning Projects</b>
-  - [Explainability of ML models trained on synthetic data generated to reduce bias]
+  - [Explainability of ML models trained on synthetic data generated to reduce bias](https://github.com/ssalabi/Explainability-of-ML-Models)
 <h2>📃 Publication:</h2>
 
   - [SleepPPG-Net: A deep learning algorithm for robust sleep staging from
